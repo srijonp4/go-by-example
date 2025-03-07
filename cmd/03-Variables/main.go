@@ -1,0 +1,3 @@
+package main
+
+// Variables implementation
